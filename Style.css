@@ -42,18 +42,8 @@ body {
     color: #2d6a4f;
 }
 
-/* Navigation links */
-/*.navbar-s1__desc,.navbar-s1__btn{
-  display: flex;
-  align-items: center;
-  gap: 30px;
-  font-weight: 500;
-}*/
 
 .navbar-s1__desc p {
-  /*font-weight: 500;
-  color: #333;
-  cursor: pointer;*/
   display: inline-block;
     margin: 0 15px;
     cursor: pointer;
@@ -156,8 +146,6 @@ body {
 display: flex;
 justify-content:space-between;
 align-items:center;
-
-
 }
 
 .saleimage-one__img img{
@@ -204,7 +192,6 @@ font-size: 25px;
 .award-one{
   color: black;
   padding: 10px;
-  
 }
 
 .award-one h2{
@@ -305,7 +292,6 @@ font-size: 25px;
   justify-content: space-between;
   gap: 20px;
    transition: transform 0.3s ease;
-
 }
 
 .hotels-one__img__h1,.hotels-one__img__h2,.hotels-one__img__h3,
@@ -358,13 +344,11 @@ font-size: 25px;
   font-weight: bold;
   margin: 10px;
    position: relative;
-  
 }
 
 .Iconic-one__img img{
  width: 400px;
  height: 300px;
-
 }
 
 .Iconic-one__img h3{
@@ -374,8 +358,6 @@ font-size: 25px;
   padding-bottom: 20px;
   justify-content: center;
   top: 200px;
-  
-
 }
 
 /*footer*/
@@ -384,7 +366,6 @@ font-size: 25px;
     background-color: whitesmoke;
     color: black;
     margin-top: 80px;
-    
 }
 
 .footer-one{
